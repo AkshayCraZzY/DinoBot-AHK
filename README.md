@@ -47,7 +47,7 @@ STEP 2:
 
 ## Versioning
 
-Current Stable Version - 1.0.1
+Current Stable Version - 1.0.2
 
 ## Authors
 
