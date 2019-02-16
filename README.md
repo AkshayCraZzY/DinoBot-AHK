@@ -30,15 +30,13 @@ STEP 2:
   Copy the code and paste it into the new script and save it as DinoBot.ahk
 ```
 
-End with an example of getting some data out of the system or using it for a little demo
-
 ## Running the Script
 ```
 STEP 1:
   Double click on the DinoBot.ahk 
  
 STEP 2:
-  Press F6 on the Game Screen (chrome://dino)
+  Press F6 on the Game Screen (doesn't work on chrome://dino)
   ```
 
 ## Built With
