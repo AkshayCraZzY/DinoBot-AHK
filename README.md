@@ -37,7 +37,7 @@ STEP 1:
   Double click on the DinoBot.ahk 
  
 STEP 2:
-  Press F6 on the Game Screen
+  Press F6 on the Game Screen (chrome://dino)
   ```
 
 ## Built With
