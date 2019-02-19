@@ -16,23 +16,27 @@ Google Chrome
 [Download AutoHotkey](https://www.autohotkey.com/download/ahk-install.exe)
 ## Installing
 
-After installing AutoHotkey on your machine 
-You will need to
-```
- STEP 1:
+After installing AutoHotkey on your machine follow these stpes -
+
+
+ **STEP 1:**
+ ```
   Create a empty AHK script by right clicking anywhere on Desktop/Any Folder 
   after that select New > AutoHotkey Script
-
-STEP 2:
+```
+**STEP 2:**
+```
   Copy the code and paste it into the new script and save it as DinoBot.ahk
 ```
 
 ## Running the Script
+
+**STEP 1:**
 ```
-STEP 1:
   Double click on the DinoBot.ahk 
- 
-STEP 2:
+ ```
+**STEP 2:**
+```
   Press F6 on the Game Screen (doesn't work on chrome://dino)
   ```
 
