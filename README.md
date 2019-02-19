@@ -40,4 +40,22 @@ After installing AutoHotkey on your machine follow these stpes -
   Press F6 on the Game Screen (doesn't work on chrome://dino)
   ```
 
+### Future Scope
+Adding a support for Night Mode (Score more than 700).
 
+### Built With
+
+* [AutoHotkey](https://www.autohotkey.com/) - Language Used
+* [SciTE4AHK](http://fincs.ahk4.net/scite4ahk/) - Editor Used
+
+### Versioning
+
+* Current Stable Version 1.0.2
+
+### Authors
+
+* **Akshay Parakh** - *Initial work* - [AkshayCraZzY](https://github.com/AkshayCraZzY)
+
+### License
+
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
