@@ -18,6 +18,8 @@ Google Chrome
 
 After installing AutoHotkey on your machine follow these stpes -
 
+[Code for Dino Bot](https://raw.githubusercontent.com/AkshayCraZzY/DinoBot-AHK/master/DinoBot-v1.0.2.ahk)
+
 
  **STEP 1:**
  ```
