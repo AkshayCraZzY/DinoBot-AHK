@@ -1,5 +1,5 @@
 # Automated BOT for Google Chrome Dino Game
-<a href="https://i.giphy.com/media/RJwzJNDkZHofxB02CV/source"><img src="https://i.giphy.com/media/RJwzJNDkZHofxB02CV/source.gif" title="Dino Dot 1.0.2"/></a>
+<a href="https://raw.githubusercontent.com/AkshayCraZzY/DinoBot-AHK/master/Media/DinoBot-1.0.2-Demo"><img src="https://raw.githubusercontent.com/AkshayCraZzY/DinoBot-AHK/master/Media/DinoBot-1.0.2-Demo.gif" title="Dino Dot 1.0.2"/></a>
 
 ## Getting Started
 This is a AHK Script for automating movements in the Google Chrome Dino Game. 
